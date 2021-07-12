@@ -7,7 +7,7 @@ Attribute Augmented Network Embedding Based on Generative Adversarial Nets
 ### Files in the folder
 - `data/`: training data
 - `pre_train/`: pre-trained node embeddings
-  > Note: the dimension of pre-trained node embeddings should equal n_emb in src/GraphGAN/config.py
+  > Note: the dimension of pre-trained node embeddings should equal n_emb in src/ANGAN/config.py
 - `results/`: evaluation results and the learned embeddings of the generator
 - `src/`: source codes
 
