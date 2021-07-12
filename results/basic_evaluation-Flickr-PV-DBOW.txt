@@ -1,0 +1,208 @@
+------basic_evaluation* iteration: 0
+gen: first-order proximity - AUC - 0.6516127757352304
+gen: second-order proximity - AUC - 0.4836316717835822
+gen: attribute proximity - AUC - 0.7041566787612964
+dis: first-order proximity - AUC - 0.6516127757352304
+dis: second-order proximity - AUC - 0.4836316717835822
+dis: attribute proximity - AUC - 0.7041566787612964
+-----------------------------------
+------basic_evaluation* iteration: 0
+gen: first-order proximity - AUC - 0.671033357735673
+gen: second-order proximity - AUC - 0.5010544601218974
+gen: attribute proximity - AUC - 0.7099975812379973
+dis: first-order proximity - AUC - 0.6594323283490051
+dis: second-order proximity - AUC - 0.488682463514765
+dis: attribute proximity - AUC - 0.7038769259035526
+-----------------------------------
+------basic_evaluation* iteration: 1
+gen: first-order proximity - AUC - 0.6892341066606972
+gen: second-order proximity - AUC - 0.5179112644609962
+gen: attribute proximity - AUC - 0.7162982377142579
+dis: first-order proximity - AUC - 0.6671584032252824
+dis: second-order proximity - AUC - 0.4937597917052041
+dis: attribute proximity - AUC - 0.7035120420847241
+-----------------------------------
+------basic_evaluation* iteration: 2
+gen: first-order proximity - AUC - 0.7066817035872255
+gen: second-order proximity - AUC - 0.5347901724201845
+gen: attribute proximity - AUC - 0.7229545630828632
+dis: first-order proximity - AUC - 0.6746446104083432
+dis: second-order proximity - AUC - 0.49863697010192615
+dis: attribute proximity - AUC - 0.7030530790731355
+-----------------------------------
+------basic_evaluation* iteration: 3
+gen: first-order proximity - AUC - 0.7232217298640671
+gen: second-order proximity - AUC - 0.5516236639050709
+gen: attribute proximity - AUC - 0.7298280177464902
+dis: first-order proximity - AUC - 0.682114320155814
+dis: second-order proximity - AUC - 0.5036300630516497
+dis: attribute proximity - AUC - 0.7024852615528963
+-----------------------------------
+------basic_evaluation* iteration: 4
+gen: first-order proximity - AUC - 0.7385440000993073
+gen: second-order proximity - AUC - 0.5682280013874034
+gen: attribute proximity - AUC - 0.7368345723072868
+dis: first-order proximity - AUC - 0.6893549587643585
+dis: second-order proximity - AUC - 0.5085308308966557
+dis: attribute proximity - AUC - 0.7017920978069637
+-----------------------------------
+------basic_evaluation* iteration: 5
+gen: first-order proximity - AUC - 0.7522954269907897
+gen: second-order proximity - AUC - 0.5842749221527893
+gen: attribute proximity - AUC - 0.7438181289459509
+dis: first-order proximity - AUC - 0.6964288796811879
+dis: second-order proximity - AUC - 0.5133684512188146
+dis: attribute proximity - AUC - 0.7009810358281285
+-----------------------------------
+------basic_evaluation* iteration: 6
+gen: first-order proximity - AUC - 0.7642801134779554
+gen: second-order proximity - AUC - 0.5995152598067388
+gen: attribute proximity - AUC - 0.7506085002216691
+dis: first-order proximity - AUC - 0.7033490777775805
+dis: second-order proximity - AUC - 0.5181737615083268
+dis: attribute proximity - AUC - 0.7000673798024105
+-----------------------------------
+------basic_evaluation* iteration: 7
+gen: first-order proximity - AUC - 0.7743893493269766
+gen: second-order proximity - AUC - 0.6136827646092531
+gen: attribute proximity - AUC - 0.7569263733332501
+dis: first-order proximity - AUC - 0.7100988017417412
+dis: second-order proximity - AUC - 0.5229344508526504
+dis: attribute proximity - AUC - 0.6990004068509627
+-----------------------------------
+------basic_evaluation* iteration: 8
+gen: first-order proximity - AUC - 0.7826791573726168
+gen: second-order proximity - AUC - 0.6266825916421328
+gen: attribute proximity - AUC - 0.7626369341099537
+dis: first-order proximity - AUC - 0.716617575233448
+dis: second-order proximity - AUC - 0.5276863838776316
+dis: attribute proximity - AUC - 0.6977608576695454
+-----------------------------------
+------basic_evaluation* iteration: 9
+gen: first-order proximity - AUC - 0.7890516084671623
+gen: second-order proximity - AUC - 0.6382755114372876
+gen: attribute proximity - AUC - 0.767576135793807
+dis: first-order proximity - AUC - 0.722897622668
+dis: second-order proximity - AUC - 0.5322898452736887
+dis: attribute proximity - AUC - 0.6963561779320339
+-----------------------------------
+------basic_evaluation* iteration: 10
+gen: first-order proximity - AUC - 0.7937724254070868
+gen: second-order proximity - AUC - 0.6484750007032007
+gen: attribute proximity - AUC - 0.7717116257344903
+dis: first-order proximity - AUC - 0.7287813788131253
+dis: second-order proximity - AUC - 0.5367481067929155
+dis: attribute proximity - AUC - 0.6947739200067171
+-----------------------------------
+------basic_evaluation* iteration: 11
+gen: first-order proximity - AUC - 0.796990435083177
+gen: second-order proximity - AUC - 0.6572075204368629
+gen: attribute proximity - AUC - 0.7750214097596224
+dis: first-order proximity - AUC - 0.7345600051262612
+dis: second-order proximity - AUC - 0.5413773653664848
+dis: attribute proximity - AUC - 0.6930580882677746
+-----------------------------------
+------basic_evaluation* iteration: 12
+gen: first-order proximity - AUC - 0.7989884923132864
+gen: second-order proximity - AUC - 0.6646301542877595
+gen: attribute proximity - AUC - 0.7775876800844778
+dis: first-order proximity - AUC - 0.7402568437215623
+dis: second-order proximity - AUC - 0.5461005590081773
+dis: attribute proximity - AUC - 0.6912467522309177
+-----------------------------------
+------basic_evaluation* iteration: 13
+gen: first-order proximity - AUC - 0.8001289096692894
+gen: second-order proximity - AUC - 0.6710420518338449
+gen: attribute proximity - AUC - 0.7795416428232838
+dis: first-order proximity - AUC - 0.7458466148730644
+dis: second-order proximity - AUC - 0.5508532439142027
+dis: attribute proximity - AUC - 0.6893617066149699
+-----------------------------------
+------basic_evaluation* iteration: 14
+gen: first-order proximity - AUC - 0.800525215707555
+gen: second-order proximity - AUC - 0.6765127087153652
+gen: attribute proximity - AUC - 0.7809669621452386
+dis: first-order proximity - AUC - 0.7514442528974918
+dis: second-order proximity - AUC - 0.555772867127096
+dis: attribute proximity - AUC - 0.6874280114972944
+-----------------------------------
+------basic_evaluation* iteration: 15
+gen: first-order proximity - AUC - 0.8003480134202933
+gen: second-order proximity - AUC - 0.6811386997869019
+gen: attribute proximity - AUC - 0.781965512320134
+dis: first-order proximity - AUC - 0.757021999389873
+dis: second-order proximity - AUC - 0.5607861457292971
+dis: attribute proximity - AUC - 0.6854100818462088
+-----------------------------------
+------basic_evaluation* iteration: 16
+gen: first-order proximity - AUC - 0.7996702386456114
+gen: second-order proximity - AUC - 0.6850010406464468
+gen: attribute proximity - AUC - 0.7826290996227562
+dis: first-order proximity - AUC - 0.7623934997568019
+dis: second-order proximity - AUC - 0.5658145359369972
+dis: attribute proximity - AUC - 0.6833090240141327
+-----------------------------------
+------basic_evaluation* iteration: 17
+gen: first-order proximity - AUC - 0.798618481254142
+gen: second-order proximity - AUC - 0.6882065033394485
+gen: attribute proximity - AUC - 0.7830739245080167
+dis: first-order proximity - AUC - 0.7676625974543452
+dis: second-order proximity - AUC - 0.5708654599560594
+dis: attribute proximity - AUC - 0.6811519066103726
+-----------------------------------
+------basic_evaluation* iteration: 18
+gen: first-order proximity - AUC - 0.7973122760264437
+gen: second-order proximity - AUC - 0.6909615188832616
+gen: attribute proximity - AUC - 0.783329294219097
+dis: first-order proximity - AUC - 0.7728217462749625
+dis: second-order proximity - AUC - 0.5759052597250874
+dis: attribute proximity - AUC - 0.6789781299617419
+-----------------------------------
+------basic_evaluation* iteration: 19
+gen: first-order proximity - AUC - 0.795692989141833
+gen: second-order proximity - AUC - 0.6931691644380051
+gen: attribute proximity - AUC - 0.7834330517985209
+dis: first-order proximity - AUC - 0.7778211527783692
+dis: second-order proximity - AUC - 0.5809150601989505
+dis: attribute proximity - AUC - 0.6767185265169464
+-----------------------------------
+------basic_evaluation* iteration: 20
+gen: first-order proximity - AUC - 0.7938449231016608
+gen: second-order proximity - AUC - 0.6949958554953752
+gen: attribute proximity - AUC - 0.7834575650846782
+dis: first-order proximity - AUC - 0.7827238467351875
+dis: second-order proximity - AUC - 0.585926543641389
+dis: attribute proximity - AUC - 0.674410208569093
+-----------------------------------
+------basic_evaluation* iteration: 21
+gen: first-order proximity - AUC - 0.7917458708442888
+gen: second-order proximity - AUC - 0.6964183122313199
+gen: attribute proximity - AUC - 0.7834145563903051
+dis: first-order proximity - AUC - 0.7874380450754338
+dis: second-order proximity - AUC - 0.590817049257953
+dis: attribute proximity - AUC - 0.67206868113671
+-----------------------------------
+------basic_evaluation* iteration: 22
+gen: first-order proximity - AUC - 0.7893941713262801
+gen: second-order proximity - AUC - 0.6974814081606336
+gen: attribute proximity - AUC - 0.783336258054772
+dis: first-order proximity - AUC - 0.7919511809119327
+dis: second-order proximity - AUC - 0.5956855165061384
+dis: attribute proximity - AUC - 0.6697036401430103
+-----------------------------------
+------basic_evaluation* iteration: 23
+gen: first-order proximity - AUC - 0.7867921063240495
+gen: second-order proximity - AUC - 0.6981714176608232
+gen: attribute proximity - AUC - 0.7832313804530475
+dis: first-order proximity - AUC - 0.7962472656541054
+dis: second-order proximity - AUC - 0.6003991676709941
+dis: attribute proximity - AUC - 0.6673035648683687
+-----------------------------------
+------basic_evaluation* iteration: 24
+gen: first-order proximity - AUC - 0.783911852725511
+gen: second-order proximity - AUC - 0.6985222385436077
+gen: attribute proximity - AUC - 0.7831210089636682
+dis: first-order proximity - AUC - 0.8004591039263796
+dis: second-order proximity - AUC - 0.6050549503858598
+dis: attribute proximity - AUC - 0.6648767739066986
+-----------------------------------
